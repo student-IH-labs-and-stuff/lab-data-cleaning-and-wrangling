@@ -2,7 +2,9 @@
 
 # Lab | Data cleaning and wrangling
 
-For this lab, we will be using the Marketing Customer Value Analysis database from before. Feel free to build on top of your previous notebooks, since there could be overlap with variable names.
+For this lab, we will be using the `Marketing Customer Value Analysis` database from before. Feel free to build on top of your previous notebooks, since there could be overlap with variable names.
+
+Note: Please use your latest version of the `Marketing Customer Value Analysis` database which should've been cleaned from the previous labs.
 
 ### Instructions
 
